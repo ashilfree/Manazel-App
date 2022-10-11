@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "614231750556",
+    "firebase_url": "https://mnazel-de5a7.firebaseio.com",
+    "project_id": "mnazel-de5a7",
+    "storage_bucket": "mnazel-de5a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614231750556:android:fb2b602b364e63db3d7a59",
+        "android_client_info": {
+          "package_name": "com.mnazel.mnazelapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614231750556-m36n67ko7f7jj1hsqift25booqcbmmfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoBQqCXfGt4-IdKtC0PpaPX1ZuWbjotyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614231750556-m36n67ko7f7jj1hsqift25booqcbmmfq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "614231750556-e8jnhmf4vud34cptn4uu7gevlfi11l37.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mnazel.mnazelapp2",
+                "app_store_id": "1467536671"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

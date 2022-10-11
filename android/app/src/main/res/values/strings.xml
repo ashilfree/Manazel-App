@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">arabawe</string>
+    <string name="default_notification_channel_id">Arbawi Messaging Channel-211‏</string>
+    <string name="channel_description">Show notification from Arabawi app</string>
+</resources>
